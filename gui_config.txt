@@ -1,0 +1,13 @@
+Image/DeathNote.jpg
+11
+Image/icon2.jpg
+Image/icon4.jpg
+Image/icon8.jpg
+Image/icon16.jpg
+Image/icon32.jpg
+Image/icon64.jpg
+Image/icon128.jpg
+Image/icon256.jpg
+Image/icon512.jpg
+Image/icon1024.jpg
+Image/icon2048.jpg
